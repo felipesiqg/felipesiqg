@@ -32,7 +32,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=felipesiqg&show_icons=true&theme=vision-friendly-dark%22%20alt=%22felipesiqg%27s%20stats%22/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=felipesiqg&show_icons=true&theme=vision-friendly-dark%22%20alt=%22felipesiqg%27s%20stats%22/">
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipesiqg&layout=compact&theme=vision-friendly-dark" alt="felipesiqg's most used languages"/>
 </p>
 
