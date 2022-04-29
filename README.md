@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://www.canva.com/design/DAE_SDSmc9Q/FnCr3186VIGZuPSSOLIKgQ/view?utm_content=DAE_SDSmc9Q&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink"/>
+<!--<img align="right" height="590em" src="https://www.canva.com/design/DAE_SDSmc9Q/view"/> -->
 <h1 align="left">Hi there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Felipe Siqueira</h1>
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=felipesiqg&color=yellow" alt="Profile views" /> </p> --> 
 
@@ -24,7 +24,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Wordpress](https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Wordpress](https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=wordpress&logoColor=007ACC)&nbsp;
 
 
 <br><br>
