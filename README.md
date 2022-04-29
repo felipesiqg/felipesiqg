@@ -4,6 +4,8 @@
 
 - 🔭 I’m currently working at [Papelaria e Livraria Santa Rosa](https://papelariasantarosa.com.br) as storekeeper
 
+- 👨‍💻 First project using Wordpress: [Papelaria e Livraria Santa Rosa website](https://papelariasantarosa.com.br)
+
 - 🌱 I’m currently learning HTML, CSS, JavaScritpt, NodeJS, ReactJS, SQL and so on;
 
 - 📫 How to reach me: Find me in any social media as @felipesiqg or in my e-mail felipesiqg@gmail.com
@@ -22,6 +24,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Wordpress](https://img.shields.io/badge/-Wordpress-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
 <br><br>
@@ -51,5 +54,3 @@
  <img align="center" src="https://img.shields.io/badge/-felipesiqg-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
-
-<img width="500em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
